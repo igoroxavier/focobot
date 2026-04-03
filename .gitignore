@@ -1,0 +1,6 @@
+.env
+
+xp.json
+
+__pycache__/
+*.pyc
